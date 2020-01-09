@@ -1,6 +1,6 @@
 # codility-js-solutions
 
-Here is codility problems solved with 100% success in JS
+Here are codility problems solved with 100% success in JS
 
 ### Run tests
 
