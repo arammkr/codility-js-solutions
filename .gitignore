@@ -1,0 +1,7 @@
+coverage/
+Nikoyan/
+node_modules/
+
+# System folders
+.idea/
+.DS_Store

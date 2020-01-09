@@ -1,0 +1,19 @@
+{
+  "name": "codility",
+  "version": "1.0.0",
+  "description": "Codility solutions",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:cover": "jest --coverage"
+  }
+}
